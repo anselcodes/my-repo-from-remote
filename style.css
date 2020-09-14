@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+ }
+  
+ #logo-container{
+    max-width: 300px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+ }
+  
+ #logo-img{
+    width: 100%;
+    height: auto;
+ }
+  
+ #logo-img{
+    text-align: center;
+ }
